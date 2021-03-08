@@ -1,0 +1,3 @@
+[submodule "PowerShellArsenal"]
+	path = PowerShellArsenal
+	url = https://github.com/ReneNyffenegger/PowerShellArsenal
