@@ -1,3 +1,6 @@
 [submodule "PowerShellArsenal"]
 	path = PowerShellArsenal
 	url = https://github.com/ReneNyffenegger/PowerShellArsenal
+[submodule "filesystem"]
+	path = filesystem
+	url = https://github.com/ReneNyffenegger/ps-modules-filesystem
