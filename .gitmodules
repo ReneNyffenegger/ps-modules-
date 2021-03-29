@@ -4,3 +4,6 @@
 [submodule "filesystem"]
 	path = filesystem
 	url = https://github.com/ReneNyffenegger/ps-modules-filesystem
+[submodule "zip"]
+	path = zip
+	url = https://github.com/ReneNyffenegger/ps-modules-zip
