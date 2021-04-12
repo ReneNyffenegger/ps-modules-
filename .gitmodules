@@ -7,3 +7,6 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/ReneNyffenegger/ps-modules-zip
+[submodule "console"]
+	path = console
+	url = https://github.com/ReneNyffenegger/ps-modules-console
