@@ -13,3 +13,9 @@
 [submodule "COM"]
 	path = COM
 	url = https://github.com/ReneNyffenegger/ps-modules-COM
+[submodule "MS-Access"]
+	path = MS-Access
+	url = https://github.com/ReneNyffenegger/ps-modules-MS-Access
+[submodule "VB"]
+	path = VB
+	url = https://github.com/ReneNyffenegger/ps-modules-VB
