@@ -10,3 +10,6 @@
 [submodule "console"]
 	path = console
 	url = https://github.com/ReneNyffenegger/ps-modules-console
+[submodule "COM"]
+	path = COM
+	url = https://github.com/ReneNyffenegger/ps-modules-COM
