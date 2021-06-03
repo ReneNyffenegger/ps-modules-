@@ -20,5 +20,5 @@
 	path = VB
 	url = https://github.com/ReneNyffenegger/ps-modules-VB
 [submodule "outlook"]
-	path = outlook
-	url = https://github.com/ReneNyffenegger/ps-module-outlook
+	path = Outlook
+	url = https://github.com/ReneNyffenegger/ps-modules-Outlook
